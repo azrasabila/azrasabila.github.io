@@ -63,8 +63,7 @@ Insert the section immediately after the summary block and before Work Experienc
     </header>
     <div class="space-y-1">
         <p><span class="font-semibold">Languages:</span> TypeScript, JavaScript, Python, Go (Golang), C#, PHP, SQL</p>
-        <p><span class="font-semibold">Frontend:</span> Next.js, React, Redux, Tailwind CSS, Material UI</p>
-        <p><span class="font-semibold">Backend:</span> Bun, Node.js, .NET Core, Gin, Fiber, gRPC, REST APIs, Server-Sent Events (SSE)</p>
+        <p><span class="font-semibold">Full-Stack Development:</span> Next.js, React, Redux, Tailwind CSS, Material UI, Bun, Node.js, .NET Core, Gin, Fiber, gRPC, REST APIs, Server-Sent Events (SSE)</p>
         <p><span class="font-semibold">Automation &amp; Data:</span> Playwright, WXT, web scraping, browser automation, ETL, Windmill, Airflow, BigQuery</p>
         <p><span class="font-semibold">Infrastructure &amp; Storage:</span> Google Cloud Platform (GCP), Docker, Kubernetes, RabbitMQ, PostgreSQL, MySQL, MongoDB, Redis</p>
     </div>
@@ -149,6 +148,7 @@ for text in (
     'supporting 1,000+ concurrent users at launch',
     'zero high- or medium-severity findings',
     'Go (Golang)',
+    'Full-Stack Development:',
     'Google Cloud Platform (GCP)',
 ):
     assert text in html, text
