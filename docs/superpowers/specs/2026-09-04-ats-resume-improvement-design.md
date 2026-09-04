@@ -27,8 +27,7 @@ Replace the summary with:
 Add a `Technical Skills` section between the summary and Work Experience:
 
 - **Languages:** TypeScript, JavaScript, Python, Go (Golang), C#, PHP, SQL
-- **Frontend:** Next.js, React, Redux, Tailwind CSS, Material UI
-- **Backend:** Bun, Node.js, .NET Core, Gin, Fiber, gRPC, REST APIs, Server-Sent Events (SSE)
+- **Full-Stack Development:** Next.js, React, Redux, Tailwind CSS, Material UI, Bun, Node.js, .NET Core, Gin, Fiber, gRPC, REST APIs, Server-Sent Events (SSE)
 - **Automation & Data:** Playwright, WXT, web scraping, browser automation, ETL, Windmill, Airflow, BigQuery
 - **Infrastructure & Storage:** Google Cloud Platform (GCP), Docker, Kubernetes, RabbitMQ, PostgreSQL, MySQL, MongoDB, Redis
 
